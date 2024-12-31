@@ -1,6 +1,13 @@
 {
   "editorLastVersion": "0.6.19a",
-  "editorRecentProjects": [],
   "titleScreenButton": true,
-  "serverSettings": {}
+  "playerSettings": {},
+  "globalSettings": {},
+  "friendSettings": {},
+  "safetyProfiles": {},
+  "editorRecentProjects": [],
+  "serverSettings": {
+    "enx-cirion-27.enx.host.": {}
+  },
+  "showIngameWarnings": false
 }

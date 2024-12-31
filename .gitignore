@@ -10,13 +10,13 @@ usernamecache.json
 options.txt
 wd_keyboard_warning.txt
 wd_next.txt
+knownkeys.txt
 
 servers.dat_old
 
 backups
 logs
 xaero
-Xaero*
 wd_filehost
 scripts
 screenshots

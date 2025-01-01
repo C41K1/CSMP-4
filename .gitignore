@@ -32,3 +32,5 @@ bluemap
 mcef-cache
 mcef-libraries
 resourcepacks
+
+*.log

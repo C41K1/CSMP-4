@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = true
-  world = csmp.jogar.io:25565
+  is_server = false
+  world = C:/Users/caiki/curseforge/minecraft/Instances/CSMP 4/saves/construcoes
 }
 

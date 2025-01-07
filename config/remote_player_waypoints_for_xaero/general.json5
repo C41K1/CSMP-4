@@ -26,8 +26,10 @@
 	"playerWaypointColor": "Black",
 	"enableMarkerWaypoints": true,
 	"markerWaypointColor": "Gray",
-	"ignoredServers": [],
-	"ignoreMarkerMessage": false,
+	"ignoredServers": [
+		"csmp.jogar.io"
+	],
+	"ignoreMarkerMessage": true,
 	"debugMode": false,
 	"minDistance": 0,
 	"maxDistance": 100000,

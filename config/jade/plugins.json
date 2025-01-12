@@ -111,6 +111,9 @@
   "waystones": {
     "waystone": true
   },
+  "camera": {
+    "image_frame": true
+  },
   "corpse": {
     "corpse": true
   },

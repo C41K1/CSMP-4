@@ -23,6 +23,15 @@
   "neverRemoveBadIcon": false,
   "exportBuiltin": false,
   "hideWarning": false,
-  "fastmenu": {},
-  "keys": {}
+  "fastmenu": {
+    "0": {
+      "3": "faa136e7-0000-0000-0000-000000000000",
+      "4": "d44a1aea-0000-0000-0000-000000000000",
+      "5": "b1c82dfd-0000-0000-0000-000000000000"
+    }
+  },
+  "keys": {
+    "d44a1aea-0000-0000-0000-000000000000": "key.keyboard.home",
+    "2cff79ac-0000-0000-0000-000000000000": "key.keyboard.semicolon"
+  }
 }

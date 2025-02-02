@@ -6,6 +6,6 @@ de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 net.minecraft.client.gui.screens.TitleScreen {
 }
 
-com.feywild.feywild.screens.FeywildTitleScreen {
+net.minecraft.client.gui.screens.inventory.InventoryScreen {
 }
 
